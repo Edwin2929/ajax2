@@ -1,0 +1,2 @@
+segunda practica de ajax 
+en el cual usamos funciones para y elementos de esta
